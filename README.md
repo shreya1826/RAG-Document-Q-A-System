@@ -111,7 +111,6 @@ Local Embeddings
 ### Answer with Source
 <img src="images/result.png" width="800"/>
 
-*(Add your own screenshots to an `images/` folder in the repo root, matching these filenames, or update the paths above.)*
 
 ---
 
@@ -212,6 +211,6 @@ This project is licensed under the MIT License.
 
 # 👩‍💻 Author
 **Shreya Upadhyay**
-- GitHub: https://github.com/<your-username>
-- LinkedIn: https://linkedin.com/in/<your-profile>
-- Email: your@email.com
+- GitHub: https://github.com/shreya1826
+- LinkedIn: www.linkedin.com/in/shreya2618
+- Email: upadhyayshreya1807@email.com
