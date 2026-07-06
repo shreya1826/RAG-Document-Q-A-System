@@ -4,21 +4,21 @@
 ---
 
 ## 📌 Table of Contents
-- Overview
-- Features
-- Tech Stack
-- Architecture
-- Screenshots
-- Installation
-- Environment Variables
-- Usage
-- Folder Structure
-- API Endpoints
-- Challenges Faced
-- Future Improvements
-- Contributing
-- License
-- Author
+- [Overview](#-overview)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Architecture](#-architecture)
+- [Screenshots](#-screenshots)
+- [Installation](#-installation)
+- [Environment Variables](#-environment-variables)
+- [Usage](#-usage)
+- [Folder Structure](#-folder-structure)
+- [API Endpoints](#-api-endpoints)
+- [Challenges Faced](#-challenges-faced)
+- [Future Improvements](#-future-improvements)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Author](#-author)
 
 ---
 
