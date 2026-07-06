@@ -66,8 +66,6 @@ This project solves that by implementing a **Retrieval-Augmented Generation (RAG
 ## Tools
 - Git & GitHub
 - VS Code
-- Render (backend hosting)
-- Vercel (frontend hosting)
 
 ---
 
