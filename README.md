@@ -4,21 +4,21 @@
 ---
 
 ## 📌 Table of Contents
-- Overview
-- Features
-- Tech Stack
-- Architecture
-- Screenshots
-- Installation
-- Environment Variables
-- Usage
-- Folder Structure
-- API Endpoints
-- Challenges Faced
-- Future Improvements
-- Contributing
-- License
-- Author
+- [Overview](#-overview)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Architecture](#-architecture)
+- [Screenshots](#-screenshots)
+- [Installation](#-installation)
+- [Environment Variables](#-environment-variables)
+- [Usage](#-usage)
+- [Folder Structure](#-folder-structure)
+- [API Endpoints](#-api-endpoints)
+- [Challenges Faced](#-challenges-faced)
+- [Future Improvements](#-future-improvements)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Author](#-author)
 
 ---
 
@@ -211,6 +211,6 @@ This project is licensed under the MIT License.
 
 # 👩‍💻 Author
 **Shreya Upadhyay**
-- GitHub: https://github.com/shreya1826
-- LinkedIn: www.linkedin.com/in/shreya2618
-- Email: upadhyayshreya1807@email.com
+- GitHub: https://github.com/<your-username>
+- LinkedIn: https://linkedin.com/in/<your-profile>
+- Email: your@email.com
